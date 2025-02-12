@@ -1,1 +1,1 @@
-# Airline-Passenger-Satisfaction-Data-Mining-Project
+Created a dashboard of a data mining project where I sourced a dataset from Kaggle hightlighting Airline travelers statistics and ran several analyses on JMP Pro software in an attempt to predict airline passenger satisfaction based on a multitude of continuous and categorical variables.
